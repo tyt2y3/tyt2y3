@@ -1,9 +1,15 @@
+<h2 align="center">Chris Tsang</h2>
+
+<h6 align="center">
+
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyt2y3&show_icons=true&theme=dark)
 -->
 ![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=tyt2y3&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)
 
-# Open Source Advocate
+</h6>
+
+### Open Source Advocate
 
 I am a strong believer in open source.
 
