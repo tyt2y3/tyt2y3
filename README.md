@@ -54,3 +54,9 @@ I am an INFJ, and according to [Personality Central](https://personality-central
 > INFJs are insightful, brilliant leaders who are likeable and encouraging, seeking to bring out the potential in others through their leadership. 
 > 
 > They are good with strategic and operational planning; with a keen understanding of allocating people and resources to the right place.
+
+## Citations
+
++ [A Momentum Function Description and Tessellation Method for Polyline](https://www.proquest.com/openview/1095f8d63f898fe8bd1177ff3071b68f)
++ [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
++ [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
