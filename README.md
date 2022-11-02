@@ -60,3 +60,4 @@ I am an INFJ, and according to [Personality Central](https://personality-central
 + [A Momentum Function Description and Tessellation Method for Polyline](https://www.proquest.com/openview/1095f8d63f898fe8bd1177ff3071b68f)
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 + [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
++ [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf)
