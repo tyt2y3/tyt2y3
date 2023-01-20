@@ -35,7 +35,7 @@ Each of these organizations has their own domain and philosophy, but they all sh
 
 Over the decade, I have exchanged ideas with many people across the internet, from different parts of the world.
 
-I am trying to build a company and a sustainable open source organization.
+I am trying to build an open source company and a sustainable open source organization.
 
 If you share a common vision and want to work with me, please contact me now.
 
