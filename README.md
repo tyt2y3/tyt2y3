@@ -1,61 +1,42 @@
 <h2 align="center">Chris Tsang</h2>
 
-<h6 align="center">
+### Founder @ SeaQL / Rust Engineer / Open Source Advocate
 
-<!--
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyt2y3&show_icons=true&theme=dark)
-![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=tyt2y3&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)
--->
-![My GitHub Stars](https://api.star-history.com/svg?repos=seaql/sea-orm,visioncortex/vtracer&type=Timeline)
+Hi! I am Chris, originally from Hong Kong, now in the UK. I am a Rust software engineer. I am the founder of [SeaQL.org](//www.sea-ql.org), best known for developing [SeaORM](https://github.com/SeaQL/sea-orm) ![GitHub stars](https://img.shields.io/github/stars/SeaQL/sea-orm.svg?style=social). Throughout my career, I worked in video encoding and systematic trading. Now I am committed to open source and developer toolings. I am looking to meet potential co-founders who are also dedicated to improving developer experience.
 
-</h6>
+### Life Story
 
-### Open Source Advocate
-
-I am a strong believer in open source.
-
-I started my GitHub journey 10 years ago, when I published my first [programming library](https://github.com/tyt2y3/vaserenderer).
-
-Over the years, I founded these organizations and led the development of
-[SeaQL](https://github.com/SeaQL) (known for [SeaORM](https://github.com/SeaQL/sea-orm)),
-[Vision Cortex](https://github.com/visioncortex) (known for [VTracer](https://github.com/visioncortex/vtracer)),
-[Project F](https://github.com/Project-F) (known for [F.LF](https://github.com/Project-F/F.LF)):
+Open source is my north star. I published my first computer [graphics library](https://github.com/tyt2y3/vaserenderer) on GitHub when I was 18 years old. At 27 years old, I quit my job and poured all the money I have and founded [Vision Cortex](https://github.com/visioncortex), best known for developing [VTracer](https://github.com/visioncortex/vtracer) ![GitHub stars](https://img.shields.io/github/stars/visioncortex/vtracer.svg?style=social). Later I discovered a niche in the Rust ecosystem, so we pivoted and started working on SeaQL.
 
 <table>
   <tbody>
     <tr>
       <td><a href="//www.sea-ql.org"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL%20badge.png" width="250"/></a></td>
       <td><a href="//www.visioncortex.org"><img src="https://www.visioncortex.org/public/visioncortex-icon-dual.svg" width="250"/></a></td>
-      <td><a href="//project-f.github.io"><img src="https://project-f.github.io/logo/white_on_nothing.png" width="250"/></a></td>
     </tr>
   </tbody>
 </table>
 
-Each of these organizations has their own domain and philosophy, but they all share the same goal: to lay down a solid foundation for developers to experiment on new ideas and to develop better software.
+### Mission
 
-Over the decade, I have exchanged ideas with many people across the internet, from different parts of the world.
+Programming is hard. It is absolutely mind-boggling when something goes wrong in production.
+While 'observability' is now in nomenclature, how about 'debuggability'? What can we do to make debugging programs easier?
 
-I am trying to build an open source company and a sustainable open source organization.
+If you are curious and feeling the same, let's get in touch and embark on a journey to transform software engineering. We will build a product that serves every programmer in the world.
 
-If you share a common vision and want to work with me, please contact me now.
+### Reality / Faith
 
-If you like what I do, consider starring, commenting, sharing and contributing.
+Maintainer burnout is a real issue. As a maintainer I felt the grill everyday. I rely on a glimpse of hope in which the industry is changing to become more favourable to community-driven open source (as opposed to corporate-driven) development; and that we can eventually stumble upon a way to make open source sustainable. Until then, we rely on faith.
 
-Collaboration on open source is the best thing humanity ever had.
+### Leadership
 
-> *note:* GitHub is best viewed in dark mode
-
-## Leadership
-
-I am an INFJ, and according to [Personality Central](https://personality-central.com/personality_types/infj-leadership/):
+I am an INFJ, and [Personality Central](https://personality-central.com/personality_types/infj-leadership/) gave a description which I liked a lot:
 
 > INFJs have an idealistic, humanistic vision of the future, and they seek to achieve this vision through their work.
-> 
-> INFJs are insightful, brilliant leaders who are likeable and encouraging, seeking to bring out the potential in others through their leadership. 
-> 
+> INFJs are insightful, brilliant leaders who are likeable and encouraging, seeking to bring out the potential in others through their leadership.
 > They are good with strategic and operational planning; with a keen understanding of allocating people and resources to the right place.
 
-## Citations
+### Citations
 
 + [A Momentum Function Description and Tessellation Method for Polyline](https://www.proquest.com/openview/1095f8d63f898fe8bd1177ff3071b68f)
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
