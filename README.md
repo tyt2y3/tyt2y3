@@ -26,7 +26,7 @@ If you are curious and feeling the same, let's get in touch and embark on a jour
 
 ### Reality / Faith
 
-Maintainer burnout is a real issue. As a maintainer I felt the grill everyday. I rely on a glimpse of hope in which the industry is changing to become more supportive to community-driven open source (as opposed to corporate-driven); and that we can eventually stumble upon a way to make open source sustainable. Until then, we rely on faith.
+Maintainer burnout is a real issue. As a maintainer I felt the grill everyday. I rely on a glimpse of hope in which the industry is becoming more supportive to community-driven open source (as opposed to corporate-driven); and that we can eventually stumble upon a way to make open source sustainable. Until then, we rely on faith.
 
 ### Leadership
 
