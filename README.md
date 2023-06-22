@@ -2,7 +2,7 @@
 
 ### Founder @ SeaQL / Rust Engineer / Open Source Advocate
 
-Hi! I am Chris, originally from Hong Kong, now in the UK. I am a Rust Software Engineer. I am the founder of [SeaQL.org](//www.sea-ql.org), best known for developing [SeaORM](https://github.com/SeaQL/sea-orm) ![GitHub stars](https://img.shields.io/github/stars/SeaQL/sea-orm.svg?style=social). Throughout my career, I worked in video encoding and systematic trading. Now I am committed to open source and developer toolings. I am looking to meet potential co-founders who are also dedicated to improving developer experience.
+Hi! I am Chris, originally from Hong Kong, now living in the UK. I am a Rust Software Engineer. I am the founder of [SeaQL.org](//www.sea-ql.org), best known for developing [SeaORM](https://github.com/SeaQL/sea-orm) ![GitHub stars](https://img.shields.io/github/stars/SeaQL/sea-orm.svg?style=social). Throughout my career, I worked in video encoding and systematic trading. Now I am committed to open source and developer toolings. I am looking to meet potential co-founders who are also dedicated to improving developer experience.
 
 ### Life Story
 
