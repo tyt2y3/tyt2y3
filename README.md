@@ -11,8 +11,8 @@ Open source is my north star. I published my first computer [graphics library](h
 <table>
   <tbody>
     <tr>
-      <td><a href="//www.sea-ql.org"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL%20badge.png" width="250"/></a></td>
-      <td><a href="//www.visioncortex.org"><img src="https://www.visioncortex.org/public/visioncortex-icon-dual.svg" width="250"/></a></td>
+      <td><a href="//www.sea-ql.org"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL%20badge.png" width="200"/></a></td>
+      <td><a href="//www.visioncortex.org"><img src="https://www.visioncortex.org/public/visioncortex-icon-dual.svg" width="200"/></a></td>
     </tr>
   </tbody>
 </table>
