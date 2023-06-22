@@ -22,7 +22,7 @@ Open source is my north star. I published my first computer [graphics library](h
 Programming is hard. It is absolutely mind-boggling when something goes wrong in production.
 While 'observability' is now in nomenclature, how about 'debuggability'? What can we do to make debugging programs easier?
 
-If you are curious and feeling the same, let's get in touch and embark on a journey to transform software engineering. We will build a product that serves every programmer in the world.
+If you are curious and feeling the same, let's team up and embark on a journey to transform software engineering. We will build a product that serves every programmer in the world.
 
 ### Reality / Faith
 
