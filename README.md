@@ -38,7 +38,13 @@ I am an INFJ, and [Personality Central](https://personality-central.com/personal
 
 ### Citations
 
+I am not in academia, but I am glad to have been cited for my work:
+
 + [A Momentum Function Description and Tessellation Method for Polyline](https://www.proquest.com/openview/1095f8d63f898fe8bd1177ff3071b68f)
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 + [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
 + [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf)
+
+### Sponsorship
+
+My personal GitHub Sponsor profile is up! You can sponsor my journey in search of a sustainable open source model. In return, you will have access to my personal unpublished journal. And probably we can have some good talks on Computer Science and Philosophy.
