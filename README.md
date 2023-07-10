@@ -47,4 +47,4 @@ I am not in academia, but I am glad to have been cited for my work:
 
 ### Sponsorship
 
-My personal GitHub Sponsor profile is up! You can sponsor my journey in search of a sustainable open source model. In return, you will have access to my personal unpublished journal. And probably we can have some good talks on Computer Science and Philosophy.
+My personal [GitHub Sponsor](https://github.com/sponsors/tyt2y3) profile is up! You can sponsor my journey in search of a sustainable open source model. In return, you will have access to my personal unpublished journal. And probably we can have some good talks on Computer Science and Philosophy.
