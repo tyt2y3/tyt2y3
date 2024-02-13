@@ -40,9 +40,14 @@ I am an INFJ, and [Personality Central](https://personality-central.com/personal
 
 I am not in academia, but I am glad to have been cited for my work:
 
+VASEr
+
 + [A Momentum Function Description and Tessellation Method for Polyline](https://www.proquest.com/openview/1095f8d63f898fe8bd1177ff3071b68f)
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 + [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
+
+VTracer
+
 + [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf)
 + [Framework to Vectorize Digital Artworks for Physical Fabrication based on Geometric Stylization Techniques](https://www.researchgate.net/publication/374448489_Framework_to_Vectorize_Digital_Artworks_for_Physical_Fabrication_based_on_Geometric_Stylization_Techniques)
 + [Image Vectorization: a Review](https://arxiv.org/pdf/2306.06441.pdf)
