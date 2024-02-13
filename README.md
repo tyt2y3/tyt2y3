@@ -44,6 +44,7 @@ I am not in academia, but I am glad to have been cited for my work:
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 + [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
 + [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf)
++ [Framework to Vectorize Digital Artworks for Physical Fabrication based on Geometric Stylization Techniques](https://www.researchgate.net/publication/374448489_Framework_to_Vectorize_Digital_Artworks_for_Physical_Fabrication_based_on_Geometric_Stylization_Techniques)
 
 ### Sponsorship
 
