@@ -42,16 +42,40 @@ I am not in academia, but I am glad to have been cited for my work:
 
 VASEr
 
+#### Publications
+
++ [Drawing polylines by tessellation](http://artgrammer.blogspot.com/2011/07/drawing-polylines-by-tessellation.html)
++ [Drawing nearly perfect 2D line segments in OpenGL](http://artgrammer.blogspot.hk/2011/05/drawing-nearly-perfect-2d-line-segments.html)
+
+#### Citations
+
 + [A Momentum Function Description and Tessellation Method for Polyline](https://www.proquest.com/openview/1095f8d63f898fe8bd1177ff3071b68f)
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 + [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
 
 VTracer
 
+#### Publications
+
++ [A description of VTracer's tracing algorithm](https://www.visioncortex.org/vtracer-docs)
++ [A description of VTracer's clustering algorithm](https://www.visioncortex.org/impression-docs)
+
+#### Citations
+
 + [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf)
 + [Framework to Vectorize Digital Artworks for Physical Fabrication based on Geometric Stylization Techniques](https://www.researchgate.net/publication/374448489_Framework_to_Vectorize_Digital_Artworks_for_Physical_Fabrication_based_on_Geometric_Stylization_Techniques)
 + [Image Vectorization: a Review](https://arxiv.org/pdf/2306.06441.pdf)
 + [StarVector: Generating Scalable Vector Graphics Code from Images](https://arxiv.org/abs/2312.11556)
+
+FireDBG
+
+#### Publications
+
++ [The design of FireDBG](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
+
+#### Citations
+
+Not yet?
 
 ### Sponsorship
 
