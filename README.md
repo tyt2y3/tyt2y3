@@ -36,9 +36,9 @@ I am an INFJ, and [Personality Central](https://personality-central.com/personal
 > INFJs are insightful, brilliant leaders who are likeable and encouraging, seeking to bring out the potential in others through their leadership.
 > They are good with strategic and operational planning; with a keen understanding of allocating people and resources to the right place.
 
-### Citations
+### Research Work
 
-I am not in academia, but I am glad to have been cited for my work:
+I am not in academia, but I am glad to have been cited for my work. My interest includes computer graphics, computational geometry, real-time systems, compilers / debuggers and software engineering techniques.
 
 #### VASEr
 
