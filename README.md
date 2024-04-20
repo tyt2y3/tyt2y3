@@ -32,7 +32,7 @@ Maintainer burnout is a real issue. As a maintainer I felt the grind everyday. I
 
 ### Research Work
 
-I am not in academia, but I am glad to have been cited for my work. My interest includes computer graphics, computational geometry, real-time systems, compilers / debuggers and software engineering techniques.
+I am not in academia, but I am glad to have been cited for my work. My interest includes computer graphics, computational geometry, real-time programming, compilers / debuggers and software engineering techniques.
 
 #### VASEr
 
