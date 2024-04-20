@@ -28,7 +28,7 @@ If you are curious and feeling the same, let's team up and embark on a journey t
 
 Maintainer burnout is a real issue. As a maintainer I felt the grind everyday. I rely on a glimpse of hope in which the industry is becoming more supportive to community-driven open source (as opposed to corporate-driven); and that we can eventually stumble upon a way to make open source sustainable. Until then, we rely on faith.
 
-![image](https://github.com/tyt2y3/tyt2y3/assets/1782664/f494616f-8d1b-466c-8379-f9fdbeacae94)
+<img src="https://github.com/tyt2y3/tyt2y3/assets/1782664/f494616f-8d1b-466c-8379-f9fdbeacae94" width="300"/>
 
 ### Research Work
 
