@@ -24,7 +24,7 @@ While 'observability' is now in nomenclature, how about 'debuggability'? What ca
 
 If you are curious and feeling the same, let's team up and embark on a journey to transform software engineering. We will build a product that serves every programmer in the world.
 
-### Reality / Faith
+### Faith / Reality
 
 Maintainer burnout is a real issue. As a maintainer I felt the grind everyday. I rely on a glimpse of hope in which the industry is becoming more supportive to community-driven open source (as opposed to corporate-driven); and that we can eventually stumble upon a way to make open source sustainable. Until then, we rely on faith.
 
