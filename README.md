@@ -23,7 +23,7 @@ SeaQL won the [OpenUK Awards 2023](https://openuk.uk/awards/openuk-awards-2023/)
 
 I believe in open-source software. Collaborating on open source development represents humanity’s most remarkable technological progress. Open-source encapsulates our collective wisdom and embodies our shared commitment to tackle problems beyond our individual capacities—whether those of a person or a company. It's the best thing we can leave for posterity.
 
-Creating open-source software isn’t easy, and funding an organization can be hard. I continue to search for better ways to fund, build and grow open-source projects, and to invite more people into this community.
+Creating open-source software isn’t easy, and funding an organisation can be hard. I continue to search for better ways to fund, build and grow open-source projects, and to invite more people into this community.
 
 ### Faith vs Reality
 
