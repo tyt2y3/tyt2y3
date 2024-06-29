@@ -17,16 +17,17 @@ Open source is my north star. I published my first computer [graphics library](h
   </tbody>
 </table>
 
+SeaQL won the [OpenUK Awards 2023](https://openuk.uk/awards/openuk-awards-2023/) in the Software category.
+
 ### Mission
 
-Programming is hard. It is absolutely mind-boggling when something goes wrong in production.
-While 'observability' is now in nomenclature, how about 'debuggability'? What can we do to make debugging programs easier?
+I believe in open-source software. Collaborating on open source development represents humanity’s most remarkable technological progress. Open-source encapsulates our collective wisdom and embodies our shared commitment to tackle problems beyond our individual capacities—whether those of a person or a company. It's the best thing we can leave for posterity.
 
-If you are curious and feeling the same, let's team up and embark on a journey to transform software engineering. We will build a product that serves every programmer in the world.
+Creating open-source software isn’t easy, and funding an organization can be hard. I continue to search for better ways to fund, build and grow open-source projects, and to invite more people into this community.
 
-### Faith / Reality
+### Faith vs Reality
 
-Maintainer burnout is a real issue. As a maintainer I felt the grind everyday. I rely on a glimpse of hope in which the industry is becoming more supportive to community-driven open source (as opposed to corporate-driven); and that we can eventually stumble upon a way to make open source sustainable. Until then, we rely on faith.
+Maintainer burnout is a real issue. As a maintainer I felt the grind everyday. I rely on a glimpse of hope in which the industry is becoming more supportive to community-driven open source (as opposed to corporate-driven); and that we can eventually stumble upon a way to make open source sustainable.
 
 <img src="https://github.com/tyt2y3/tyt2y3/assets/1782664/f494616f-8d1b-466c-8379-f9fdbeacae94" width="300"/>
 
