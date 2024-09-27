@@ -57,10 +57,12 @@ I am not in academia, but I am glad to have been cited for my work. My interest 
 
 ##### Citations
 
-+ [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf)
+<!-- [DrawBuddy - Capstone Project at CMU](http://course.ece.cmu.edu/~ece500/projects/s22-teamb2/wp-content/uploads/sites/183/2022/05/DrawBuddy_Poster.pdf) -->
 + [Framework to Vectorize Digital Artworks for Physical Fabrication based on Geometric Stylization Techniques](https://www.researchgate.net/publication/374448489_Framework_to_Vectorize_Digital_Artworks_for_Physical_Fabrication_based_on_Geometric_Stylization_Techniques)
 + [Image Vectorization: a Review](https://arxiv.org/pdf/2306.06441.pdf)
 + [StarVector: Generating Scalable Vector Graphics Code from Images](https://arxiv.org/abs/2312.11556)
++ [Text-Based Reasoning About Vector Graphics](https://arxiv.org/abs/2404.06479)
++ [Delving into LLMs' visual understanding ability using SVG to bridge image and text](https://openreview.net/pdf?id=pwlm6Po61I)
 
 #### FireDBG
 
