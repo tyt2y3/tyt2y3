@@ -35,7 +35,7 @@ Maintainer burnout is a real issue. As a maintainer I felt the grind everyday. I
 
 I am not in academia, but I am glad to have been cited for my work. My interest includes computer graphics, computational geometry, real-time programming, compilers / debuggers and software engineering techniques.
 
-#### VASEr
+#### [VASEr](https://github.com/tyt2y3/vaserenderer)
 
 ##### Publications
 
@@ -48,7 +48,7 @@ I am not in academia, but I am glad to have been cited for my work. My interest 
 + [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 + [Drawing Antialiased Lines with OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
 
-#### VTracer
+#### [VTracer](https://github.com/visioncortex/vtracer)
 
 ##### Publications
 
