@@ -64,7 +64,7 @@ I am not in academia, but I am glad to have been cited for my work. My interest 
 + arXiv 2024 [Text-Based Reasoning About Vector Graphics](https://arxiv.org/abs/2404.06479)
 + arXiv 2024 [Delving into LLMs' visual understanding ability using SVG to bridge image and text](https://openreview.net/pdf?id=pwlm6Po61I)
 
-#### FireDBG
+#### [FireDBG](https://github.com/SeaQL/FireDBG.for.Rust)
 
 ##### Publications
 
