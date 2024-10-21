@@ -73,7 +73,3 @@ I am not in academia, but I am glad to have been cited for my work. My interest 
 ##### Citations
 
 Not yet?
-
-### Sponsorship
-
-My personal [GitHub Sponsor](https://github.com/sponsors/tyt2y3) profile is up! You can sponsor my journey in search of a sustainable open source model. And probably we can have some good talks on Computer Science and Philosophy.
