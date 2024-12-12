@@ -17,7 +17,7 @@ Open source is my north star. I published my first computer [graphics library](h
   </tbody>
 </table>
 
-SeaQL won the [OpenUK Awards 2023](https://openuk.uk/awards/openuk-awards-2023/)[&nbsp;](https://openuk.uk/awards/openuk-awards-2023/openuk-awards-2023-photo-gallery/) in the Software category.
+SeaQL won the [OpenUK Awards 2023](https://openuk.uk/awards/openuk-awards-2023/)[&nbsp;](https://openuk.uk/awards/openuk-awards-2024-fifth-edition/openuk-awards-2023/openuk-awards-2023-photo-gallery/) in the Software category.
 
 ### Mission
 
