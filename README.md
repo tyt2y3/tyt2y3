@@ -63,6 +63,7 @@ I am not in academia, but I am glad to have been cited for my work. My interest 
 + arXiv 2023 [StarVector: Generating Scalable Vector Graphics Code from Images](https://arxiv.org/abs/2312.11556)
 + arXiv 2024 [Text-Based Reasoning About Vector Graphics](https://arxiv.org/abs/2404.06479)
 + arXiv 2024 [Delving into LLMs' visual understanding ability using SVG to bridge image and text](https://openreview.net/pdf?id=pwlm6Po61I)
++ CVPR 2025 [StarVector: Generating Scalable Vector Graphics Code From Images And Text](https://starvector.github.io/)
 
 #### [FireDBG](https://github.com/SeaQL/FireDBG.for.Rust)
 
