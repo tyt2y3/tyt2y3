@@ -2,11 +2,11 @@
 
 ### Founder @ SeaQL / Rust Engineer / Open Source Advocate
 
-Hi! I am Chris, originally from Hong Kong, now living in the UK. I am a Rust Software Engineer. I am the founder of [SeaQL.org](//www.sea-ql.org), best known for developing [SeaORM](https://github.com/SeaQL/sea-orm) ![GitHub stars](https://img.shields.io/github/stars/SeaQL/sea-orm.svg?style=social). I am committed to open source and developer toolings, now focusing on [FireDBG](https://github.com/SeaQL/FireDBG.for.Rust) ![GitHub stars](https://img.shields.io/github/stars/SeaQL/FireDBG.for.Rust.svg?style=social). I am looking to meet potential co-founders who are also dedicated to improving developer experience.
+Hi! I am Chris, originally from Hong Kong, now living in the UK. I am a Rust Software Engineer. I am the founder of [SeaQL.org](//www.sea-ql.org), best known for developing [SeaORM](https://github.com/SeaQL/sea-orm) ![GitHub stars](https://img.shields.io/github/stars/SeaQL/sea-orm.svg?style=social).
 
 ### Life Story
 
-Open source is my north star. I published my first computer [graphics library](https://github.com/tyt2y3/vaserenderer) on GitHub when I was 18 years old. At 27 years old, I quit my job and poured all the money I have and founded [Vision Cortex](https://github.com/visioncortex), best known for developing [VTracer](https://github.com/visioncortex/vtracer) ![GitHub stars](https://img.shields.io/github/stars/visioncortex/vtracer.svg?style=social). Later I discovered a niche in the Rust ecosystem, so we pivoted and started working on SeaQL.
+Open source is my north star. I published my first computer [graphics library](https://github.com/tyt2y3/vaserenderer) on GitHub when I was 18 years old. At 27 years old, I quit my job and started [Vision Cortex](https://github.com/visioncortex), best known for developing [VTracer](https://github.com/visioncortex/vtracer) ![GitHub stars](https://img.shields.io/github/stars/visioncortex/vtracer.svg?style=social). Later I discovered a niche in the Rust ecosystem, so we pivoted and started working on SeaQL.
 
 <table>
   <tbody>
